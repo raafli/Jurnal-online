@@ -1,3 +1,3 @@
-# Jurnal-online
+# jurnalonline
 garap garap garap
 Test
