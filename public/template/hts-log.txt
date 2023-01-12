@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Jan 2023 13:47:15 at https://admin.pixelstrap.com/zeta/theme/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://admin.pixelstrap.com/zeta/theme/index.html -O1 "C:\Users\lenovo\Documents\template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:54:28	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/vendors/preloader.gif (from https://admin.pixelstrap.com/zeta/assets/css/vendors/photoswipe.css)
+13:54:28	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/images/details_close.png (from https://admin.pixelstrap.com/zeta/assets/css/style.css)
+13:54:36	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/theme/cropped.jpg (from https://admin.pixelstrap.com/zeta/theme/image-cropper.html)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/vendors/dropzone-spritemap.png (from https://admin.pixelstrap.com/zeta/assets/css/vendors/dropzone.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/vendors/${file-1x} (from https://admin.pixelstrap.com/zeta/assets/css/vendors/rating.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/vendors/${file-2x} (from https://admin.pixelstrap.com/zeta/assets/css/vendors/rating.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/images/tree/32px.png (from https://admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/images/tree/40px.png (from https://admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/images/icon-tree.png (from https://admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/images/tree-1.png (from https://admin.pixelstrap.com/zeta/assets/css/vendors/tree.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/images/button_builder/colorpicker_overlay.png (from https://admin.pixelstrap.com/zeta/assets/css/vendors/button-builder.css)
+13:54:38	Error: 	"Not Found" (404) at link https://admin.pixelstrap.com/zeta/assets/css/images/button_builder/colorpicker_select.gif (from https://admin.pixelstrap.com/zeta/assets/css/vendors/button-builder.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 23 seconds : 860 links scanned, 847 files written (119950565 bytes overall) [99782639 bytes received at 225242 bytes/sec], 23794149 bytes transferred using HTTP compression in 200 files, ratio 13%, 5.8 requests per connection
+(12 errors, 0 warnings, 0 messages)
