@@ -15,10 +15,13 @@
               </g>
             </svg>
           </div>
+          <div>
+       
+      </div>
         </div>
       </div>
       <div class="left-side-header col ps-0 d-none d-md-block">
-        <div class="input-group"><span class="input-group-text" id="basic-addon1">
+        {{-- <div class="input-group"><span class="input-group-text" id="basic-addon1">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g>
                 <g>
@@ -28,12 +31,13 @@
               </g>
             </svg></span>
           <input class="form-control" type="text" placeholder="Search here.." aria-label="search" aria-describedby="basic-addon1">
-        </div>
+        </div> --}}
       </div>
+
       <div class="nav-right col-10 col-sm-6 pull-right right-header p-0">
         <ul class="nav-menus">
           <li>
-            <div class="mode animated backOutRight">
+            {{-- <div class="mode animated backOutRight">
               <svg class="lighticon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g>
                   <g>
@@ -45,8 +49,8 @@
                 <path d="M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z"></path>
                 <path d="M18.3117 5.68834L18.4286 5.57143M5.57144 18.4286L5.68832 18.3117M12 3.07394V3M12 21V20.9261M3.07394 12H3M21 12H20.9261M5.68831 5.68834L5.5714 5.57143M18.4286 18.4286L18.3117 18.3117" stroke-linecap="round" stroke-linejoin="round"></path>
               </svg>
-            </div>
-          </li>
+            </div> --}}
+          {{-- </li>
           <li class="d-md-none resp-serch-input">
             <div class="resp-serch-box"><i data-feather="search"></i></div>
             <div class="form-group search-form">
@@ -123,7 +127,7 @@
                   </g>
                 </g>
               </svg>
-            </div>
+            </div> --}}
             <div class="onhover-show-div bookmark-flip">
               <div class="flip-card">
                 <div class="flip-card-inner">
@@ -169,7 +173,7 @@
               </div>
             </div>
           </li>
-          <li class="onhover-dropdown">
+          {{-- <li class="onhover-dropdown">
             <div class="notification-box">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g>
@@ -239,7 +243,7 @@
                     <path d="M15.2661 2.94995C18.7461 3.51995 20.4661 5.23995 21.0361 8.71995" stroke="#130F26" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                   </g>
                 </g>
-              </svg></a></li>
+              </svg></a></li> --}}
           <li class="profile-nav onhover-dropdown pe-0 py-0 me-0">
             <div class="media profile-media">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
